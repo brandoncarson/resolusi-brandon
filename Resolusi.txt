@@ -2,3 +2,4 @@ Resolusi Brandon:
 - Konsisten belajar bahasa inggirs
 - Menguasai Python
 - Menyelesaikan skripsi
+- Membuat website sederhana
